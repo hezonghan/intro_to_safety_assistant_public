@@ -7,6 +7,7 @@
 by: 南方科技大学 树仁书院1829班安全委员
 
 （持续更新中~）
+获取最新版本：请访问 https://github.com/hezonghan/intro_to_safety_assistant_public
 
 
 
