@@ -162,7 +162,7 @@ by: 南方科技大学 树仁书院1829班安全委员
 - 防灾减灾（防汛防旱防风、防震）
   - 防汛防雨、防风
     - 必会知识
-      1. 气象预警信号种类与查询（[深圳](https://weather.sz.gov.cn/qixiangfuwu/yujingfuwu/tufashijianyujing/index.html)），雷达图像的获取与识读（[深圳](https://weather.sz.gov.cn/qixiangfuwu/qixiangjiance/leidatuxiang/index.html)）
+      1. 气象预警信号种类与查询 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/yujingfuwu/tufashijianyujing/index.html)]，雷达图像的获取与识读 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/qixiangjiance/leidatuxiang/index.html)]
       2. 沙袋的使用
       3. 建筑、乔木等的高空坠物隐患排查
       4. 挡水板、抽水泵的使用
@@ -208,7 +208,7 @@ by: 南方科技大学 树仁书院1829班安全委员
   - 拓展知识
     - 人防工程给排水系统/电气系统
     - 风速风向测量，防化侦检
-    - 师生人防志愿者的培训：南科大《学案》 ([2024.10.26.a版](https://mp.weixin.qq.com/s/STOeKTXAewG6lGXnap_dzw))
+    - 师生人防志愿者的培训：南科大《学案》 [[2024.10.26.a版](https://mp.weixin.qq.com/s/STOeKTXAewG6lGXnap_dzw)]
     - 防空警报手语信号
     - 人防工程结构专业
     - 地铁站人防
@@ -300,10 +300,10 @@ by: 南方科技大学 树仁书院1829班安全委员
   - 口哨、手摇警报器
   - 手机
     - 紧急情况群聊沟通的提前约定
-    - 南科大商学院“急救天眼”app [简介](https://mp.weixin.qq.com/s/KCDge4l5zEEhJdLUSBcyPw)
+    - 南科大商学院“急救天眼”app [[简介](https://mp.weixin.qq.com/s/KCDge4l5zEEhJdLUSBcyPw)]
   - 业余无线电
     - 仅限对无线电技术有兴趣者！
-    - [题库](https://github.com/hezonghan/reorganized_CRAC_questions_bank)
+    - [[题库](https://github.com/hezonghan/reorganized_CRAC_questions_bank)]
   - 耳机
   - 群聊信息的抓取与分析
   - 战斗警报app/灯箱
@@ -311,13 +311,13 @@ by: 南方科技大学 树仁书院1829班安全委员
 
 - 安全委员地理学
   - 校园平面图、校巴实时位置，楼层疏散图，联系方式
-  - 应急装置/物资的位置，消防中控室、监控室的位置和覆盖区域
+  - 应急装置/物资的位置 [[南科大校内外AED](http://hzh2015.cn/AED_map)]，消防中控室、监控室的位置和覆盖区域
   - 应急车辆的迎接与带路，消防车通道的判别
-  - 南科大校内公园、湖、山、广场、道路、桥梁的（中文）名称  [2020版](https://mp.weixin.qq.com/s/lKInpmtWfJbGeX9Sb89vFw)
+  - 南科大校内公园、湖、山、广场、道路、桥梁的（中文）名称  [[2020版](https://mp.weixin.qq.com/s/lKInpmtWfJbGeX9Sb89vFw)]
   - 南科大校内地名的特殊英文名：涵泳图书馆（Learning Nexus）、松禾体育场（GPCP Stadium）、一教（Lecture Hall 1）、欣园（Joy Highland）、微喔超市（Well Convenience Store）、……
   - 南科大校内地名的常见错别字/音（尤其是冠名）
   - 新楼挺进侦察
-  - 看图猜地点游戏 ([南科大](https://github.com/hezonghan/Identify_SUSTech_Locations))
+  - 看图猜地点游戏 [[南科大](https://github.com/hezonghan/Identify_SUSTech_Locations)]
   - 与学校所在社区/街道、学校周边单位的联络联防
   - 学校基建规划、校内工地情况
   - 附属医院、教育集团、附属中学
@@ -350,7 +350,7 @@ by: 南方科技大学 树仁书院1829班安全委员
     - 静态宣传：海报、横幅、易拉宝、宣传视频
     - 发放资料：宣传折页、学案
     - 线上宣传：QQ空间、微信公众号，社群（QQ群、微信群）
-      - 校外媒体宣传需经过学校宣传与公共关系部审核  [暂行办法下载](https://zzjg.sustech.edu.cn/list.html?app_alias=ocpr&sort_alias=42f43396bcdce40d2e2e72f524ae41ea&template_type_id=2&title=%E4%B8%8B%E8%BD%BD%E4%B8%93%E5%8C%BA)
+      - 校外媒体宣传需经过学校宣传与公共关系部审核  [[暂行办法下载](https://zzjg.sustech.edu.cn/list.html?app_alias=ocpr&sort_alias=42f43396bcdce40d2e2e72f524ae41ea&template_type_id=2&title=%E4%B8%8B%E8%BD%BD%E4%B8%93%E5%8C%BA)]
     - 依托应急牌、应急设施
   - 内容
     - 安全应急时政
