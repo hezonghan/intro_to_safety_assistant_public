@@ -7,8 +7,9 @@
 by: 南方科技大学 树仁书院1829班安全委员
 
 （持续更新中~）
-获取最新版本：请访问 https://github.com/hezonghan/intro_to_safety_assistant_public
+- 获取最新版本：请访问 https://github.com/hezonghan/intro_to_safety_assistant_public
 <img src="./repo_url_qrcode.png" alt="repo_url_qrcode" style="zoom:20%;" />
+- [[修订历史记录](https://github.com/hezonghan/intro_to_safety_assistant_public/commits/master/)]
 
 
 
