@@ -175,7 +175,7 @@ by: 南方科技大学 树仁书院1829班安全委员
 - 防灾减灾（防汛防旱防风、防震）
   - 防汛防雨、防风
     - 必会知识
-      1. 气象预警信号种类与查询 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/yujingfuwu/tufashijianyujing/index.html)]，雷达图像的获取与识读 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/qixiangjiance/leidatuxiang/index.html)]
+      1. 气象预警信号种类与查询 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/yujingfuwu/tufashijianyujing/index.html)] [[广东](http://gd.cma.gov.cn/yjjz/)]，雷达图像的获取与识读 [[深圳](https://weather.sz.gov.cn/qixiangfuwu/qixiangjiance/leidatuxiang/index.html)]，台风信息查询 [[深圳](https://tf.121.com.cn/index.html)]
       2. 沙袋的使用
       3. 建筑、乔木等的高空坠物隐患排查
       4. 挡水板、抽水泵的使用
