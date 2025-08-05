@@ -440,20 +440,20 @@ by: 南方科技大学 树仁书院1829班安全委员
   - [[储备与部署参考清单](./emergency_supply_as_ref.md)]
 
 - 安全委员地理学
-  - 校园平面图、校巴实时位置，楼层疏散图
-  - 校园内各单位联系方式
-  - 应急装置/物资的位置 [[南科大校内外AED](http://hzh2015.cn/AED_map)]，消防中控室、监控室的位置和辖区
-  - 应急车辆的迎接与带路，消防车通道的判别
-  - 南科大校内公园、湖、山、广场、道路、桥梁的（中文）名称  [[2020版](https://mp.weixin.qq.com/s/lKInpmtWfJbGeX9Sb89vFw)]
-  - 南科大校内地名的特殊英文名：涵泳图书馆（Learning Nexus）、松禾体育场（GPCP Stadium）、一教（Lecture Hall 1）、欣园（Joy Highland）、微喔超市（Well Convenience Store）、……
-  - 南科大校内地名的常见错别字/音（尤其是冠名不能错）
-  - 校内建筑、设施等的清单 [暂不公开]
-  - 校内外保密要害部位
-  - 新楼挺进侦察
-  - “看图猜地点”游戏 [[南科大](https://github.com/hezonghan/Identify_SUSTech_Locations)]
-  - 与学校所在社区/街道、学校周边单位的联络联防
-  - 学校基建规划、校内工地情况
-  - 附属医院，教育集团、附属中学、附属小学、附属幼儿园，研究院
+    - 校园平面图、校巴实时位置，楼层疏散图
+    - 校园内各单位联系方式
+    - 应急装置/物资的位置 [[南科大校内外AED](http://hzh2015.cn/AED_map)]，消防中控室、监控室的位置和辖区
+    - 应急车辆的迎接与带路，消防车通道的判别
+    - 南科大校内公园、湖、山、广场、道路、桥梁的（中文）名称  [[2020版](https://mp.weixin.qq.com/s/lKInpmtWfJbGeX9Sb89vFw)]
+    - 南科大校内地名的特殊英文名：涵泳图书馆（Learning Nexus）、松禾体育场（GPCP Stadium）、一教（Lecture Hall 1）、欣园（Joy Highland）、微喔超市（Well Convenience Store）、……
+    - 南科大校内地名的常见错别字/音（尤其是冠名不能错）
+    - 校内建筑、设施等的清单 [暂不公开]
+    - 校内外保密要害部位
+    - 新楼挺进侦察
+    - “看图猜地点”游戏 [[南科大](https://github.com/hezonghan/Identify_SUSTech_Locations)]
+    - 与学校所在社区/街道、学校周边单位的联络联防
+    - 学校基建规划、校内工地情况
+    - 附属医院，教育集团、附属中学、附属小学、附属幼儿园，研究院
 
 - 安全委员校内快速机动
   - 徒步
