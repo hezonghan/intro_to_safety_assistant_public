@@ -62,9 +62,11 @@ by: 南方科技大学 树仁书院1829班安全委员
 
 - 安全应急通用框架
   - ❤️C1类必会知识技能
-    - “四快”处置规程
+    - “四快”处置规程 [[2022年11月试行版](https://mp.weixin.qq.com/s/-byWP4Qqt_qKAMsYzQbRow)] [[2023年1月全面推行版 (含视频、海报)](https://mp.weixin.qq.com/s/k68p1q1aQ7K5PvNGCprhzw)]
       - 例：在火情处置、心肺复苏、防空警报响应中的应用
     - 血液传播疾病预防框架
+  - ❤️E类必会知识技能
+    - 事故分类框架：GB 6441—XXXX《生产安全事故分类与编码(征求意见稿)》[[微信公众号推送](https://mp.weixin.qq.com/s/-nLX7cjjAsnTb_-Jbit7Qw)]、DB4403/T 485—2024《事故分类与调查分析技术规程》[[征求意见 (含编制说明)](https://amr.sz.gov.cn/xxgk/qt/ztlm/dzszbz/tzgg/content/post_10907497.html)] [[发布公告](https://amr.sz.gov.cn/xxgk/qt/ztlm/dzszbz/tzgg/content/post_11491235.html)]
 
 - 学习渠道
   - 国家与各级地方的法律法规
